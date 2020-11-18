@@ -1,1 +1,1 @@
-# Machin_Learning_Coursera
+# Machine_Learning_Coursera
