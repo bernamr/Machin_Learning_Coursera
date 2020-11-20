@@ -1,3 +1,7 @@
+# LINK FOR THE HTML FILE : 
+
+https://htmlpreview.github.io/?https://github.com/bernamr/Machin_Learning_Coursera/blob/main/Final_Project.html
+
 # Machine_Learning_Coursera
 
 Prediction-Assignment-Writeup
